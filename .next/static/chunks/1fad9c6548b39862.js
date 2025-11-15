@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,42853,e=>{e.v("/_next/static/media/image.f79e7b70.png")}]);
