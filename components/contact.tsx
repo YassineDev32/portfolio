@@ -112,7 +112,7 @@ export function Contact() {
             animate={isInView ? { opacity: 1 } : {}}
             transition={{ duration: 0.6, delay: 0.8 }}
           >
-            <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Yassine Said. All rights reserved.</p>
           </motion.div>
         </div>
       </div>
